@@ -13,3 +13,5 @@ Nesta aula estamos aprendendo comandos bens legais e úteis
 
 ### git add [ caminho do arquivo ]
  **Adiciona um arquivo específico**
+
+### git commit
