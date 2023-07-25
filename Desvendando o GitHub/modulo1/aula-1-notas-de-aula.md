@@ -2,7 +2,6 @@
 
 ### Instalacao do git
 
-
 ### Configuracao do git
 
 ### Comandos
